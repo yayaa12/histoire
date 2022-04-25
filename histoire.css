@@ -9,7 +9,8 @@ h3{color: white;
    box-sizing: border-box;
 border-width: 20px;
 border-color: brown;
-border-style: double;}
+border-style: double;
+border-radius: 30px;}
 iframe{width: 600px;
     display: block;
     margin-right: auto;
@@ -18,7 +19,8 @@ iframe{width: 600px;
     box-sizing: border-box;
     border-width: 30px;
     border-color: brown;
-    border-style: double;}
+    border-style: double;
+border-radius: 30px;}
 
 
 
