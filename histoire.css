@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+body{background-image: url("https://media.torah-box.com/384x216/horaires-chabbath-7993.jpg");
+background-repeat: repeat;
+background-size: 100%;}
+h3{color: white;
+    background-color: black;
+    font-family: 'Water Brush', cursive;
+    text-align: center;
+   box-sizing: border-box;
+border-width: 20px;
+border-color: brown;
+border-style: double;}
+iframe{width: 600px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    box-sizing: border-box;
+    border-width: 30px;
+    border-color: brown;
+    border-style: double;}
+
+
+
+
+    
+    @media screen and (max-width:1500px),(min-width:1000px) {
+        body{
+            width:99,9%;
+            height: 99%;
+     
+        }
+       iframe{
+           width: 70%;
+       }
+      video{
+        width:70%;
+            height: 50%;
+      } 
+      audio{
+        width:70%;
+                height: 100%;
+      }
+      #audio{
+    width:80%;
+            height: 80%;
+  }
+  #image{width: 100%;
+  height: 100%;}
+  }
