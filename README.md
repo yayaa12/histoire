@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Histoire pour Chabbath</title>
-    <link rel="stylesheet" href="Histoire.css">
+    <link rel="stylesheet" href="histoire.css">
     <link rel="shortcut icon" href="https://media.torah-box.com/une-histoire-pour-chabbath-1984.jpg">
 </head>
 <body>
